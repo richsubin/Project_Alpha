@@ -10,6 +10,8 @@
 	<header>헤더입니다
 	</header>
 	<article>본문입니다
+	<section>기사1</section>
+	<section>기사2</section>
 	</article>
 	<footer>푸터입니다
 	</footer>
